@@ -1,4 +1,4 @@
-# KTH DevOps Course
+# KTH DevOps Course 
 
 This repository contains the material and content of the [DevOps course at KTH Royal Institute of Technology](https://www.kth.se/social/course/DD2482/).
 
